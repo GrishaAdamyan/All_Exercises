@@ -1,0 +1,12 @@
+print('mutqagrel azganun@')
+surname = input()
+print('mutqagrel anun@')
+name = input()
+print(name, surname)
+print('mutqagrel nor anun')
+new_name = input()
+print(name, surname)
+print(new_name, name)
+name = new_name
+print(new_name, name)
+print(name, surname)
